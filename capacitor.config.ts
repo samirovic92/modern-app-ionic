@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'modern-app-ionic',
+  appId: 'io.samic',
+  appName: 'Movie Trending',
   webDir: 'www'
 };
 
